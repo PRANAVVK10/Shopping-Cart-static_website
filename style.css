@@ -1,0 +1,62 @@
+body{
+    background-color:black;
+    margin: 0;
+}
+.header{
+    width: 24%;
+    height: 30rem;
+    position: fixed;
+    margin-top:10px;
+    
+}
+ul{
+
+    line-height: 80px ;
+    
+    margin-top: 50px;
+    margin-left: 100px;
+    
+    
+}
+li{
+    list-style-type: none;
+}
+
+
+.img-top{
+    position: relative;
+    width: 76%;
+    height: 30rem;
+    
+    float: right;
+    
+}
+.header h1{
+    color:white;
+    
+    padding-left: 25px;
+    padding-top:40px;
+    font-size: 30px;
+    border: 5px solid;
+    border-color: red;
+    text-align: center;
+    
+}
+ li a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+.symbol{
+    width: 30px;
+    height: 3px;
+    background-color: white;
+    display: inline-block;
+    
+    max-width: 30px;
+   
+}
+.header1:hover{
+    transform:translateX(15px);
+
+}
