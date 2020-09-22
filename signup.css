@@ -1,0 +1,59 @@
+body{
+    background: url(./images/cloth-3672088_1920.jpg);background-repeat:no-repeat ;background-size: 100%;
+}
+.signup-section{
+    width: 600px;
+    height: 500px;
+    background-color:rgba(71, 43, 43, 0.76);
+    margin: 100px 300px 200px 500px;
+    
+    
+}
+.inner-section h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    
+}
+.form{
+    color: white;
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+    
+    
+}
+.btn{
+    padding-left: 220px;
+    margin: 20px;
+    
+}
+.form-control{
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    border-color: black 3px solid;
+    background-color:rgba(0,0,0,.5) ;
+}
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: white;
+}
+.form-control:focus{
+    background-color:white;
+}
+.switch{
+    color:white;
+    padding-left: 180px;
+}
+.switch a{
+    color:rgb(196, 165, 165);
+}
+.switch a:hover{
+    color: white;
+}
