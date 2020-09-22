@@ -114,4 +114,10 @@ div{
     padding-left: 60px;
     
 }
-
+a:hover{
+    color:black;
+}
+button:hover{
+    background: blueviolet;
+    color: white;
+}
